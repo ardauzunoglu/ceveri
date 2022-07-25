@@ -39,6 +39,6 @@ Dosya başarıyla çevrildi.
 Bir diğer örnek kullanım:
 
 >>> from ceveri import cevir
->>> cevir("D:/files/rusca_dosya.json", "D:/files/turkce_dosya.json")
+>>> cevir("D:/files/rusca_dosya.txt", "D:/files/turkce_dosya.txt")
 Dosya başarıyla çevrildi.
-Çevrilen dosyaya D:/files/turkce_dosya.json adresinden erişebilirsiniz.
+Çevrilen dosyaya D:/files/turkce_dosya.txt adresinden erişebilirsiniz.
