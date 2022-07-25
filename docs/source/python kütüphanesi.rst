@@ -18,10 +18,7 @@ Kurulum
 Desteklenen Uzantılar
 -------------------------
 
-Desteklenen uzantılar:
-*  .txt
-*  .json
-*  .xlsx
+Desteklenen uzantılar: .txt, .json, ve .xlsx. 
 
 Kullanım
 ----------------
