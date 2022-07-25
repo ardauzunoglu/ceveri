@@ -1,4 +1,4 @@
-Python Kütüphanesi
+Website
 =====
 
 .. _kullanım:
