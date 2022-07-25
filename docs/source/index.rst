@@ -1,9 +1,9 @@
-ÇeVeri Paketinin Dokümantasyonuna Hoş Geldiniz!
+ÇeVeri Dokümantasyonuna Hoş Geldiniz!
 ===================================
 
 **ÇeVeri** aracılığı ile Batı dillerinin ekseninde yoğunlaşan metin temelli veri setlerinin Türkçe’ye kazandırılmasını ve geliştiricilerin yaşadığı en büyük sorunlardan biri olan Türkçe veri eksikliğinin önüne geçilmesini amaçlıyoruz.
 
-Kurulum gerçekleştirme rehberi için :ref:`kurulum` başlığını, kullanım rehberi için ise :doc:`kullanım` sayfasını ziyaret ediniz.
+Python kütüphanesi rehberi için :ref:`python kütüphanesi` sayfasını, websitesi rehberi için ise :doc:`website` sayfasını ziyaret ediniz.
 
 .. note::
 
