@@ -1,0 +1,4 @@
+Python Kütüphanesi
+=====
+
+.. _kullanım:
