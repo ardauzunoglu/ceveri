@@ -1,7 +1,8 @@
-Kullanım
+Python Kütüphanesi
 =====
 
 .. _kurulum:
+.. _kullanım:
 
 Kurulum
 ------------
@@ -12,7 +13,7 @@ To use Lumache, first install it using pip:
 
    (.venv) $ pip install lumache
 
-Creating recipes
+Kullanım
 ----------------
 
 To retrieve a list of random ingredients,
