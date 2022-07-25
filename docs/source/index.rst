@@ -14,5 +14,5 @@ Kurulum gerçekleştirme rehberi için :ref:`kurulum` başlığını, kullanım 
 
 .. toctree::
 
-   kullanım
-   api
+   python kütüphanesi
+   website
