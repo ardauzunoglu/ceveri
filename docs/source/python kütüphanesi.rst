@@ -19,9 +19,9 @@ Desteklenen Uzantılar
 -------------------------
 
 Desteklenen uzantılar:
-* .txt.
-* .json.
-* .xlsx.
+* txt.
+* json.
+* xlsx.
 
 Kullanım
 ----------------
