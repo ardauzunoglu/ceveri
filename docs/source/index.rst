@@ -3,7 +3,7 @@
 
 **ÇeVeri** aracılığı ile Batı dillerinin ekseninde yoğunlaşan metin temelli veri setlerinin Türkçe’ye kazandırılmasını ve geliştiricilerin yaşadığı en büyük sorunlardan biri olan Türkçe veri eksikliğinin önüne geçilmesini amaçlıyoruz.
 
-Python kütüphanesi rehberi için :ref:`python kütüphanesi` sayfasını, websitesi rehberi için ise :doc:`website` sayfasını ziyaret ediniz.
+Python kütüphanesi rehberi için :doc:`python kütüphanesi` sayfasını, websitesi rehberi için ise :doc:`website` sayfasını ziyaret ediniz.
 
 .. note::
 
