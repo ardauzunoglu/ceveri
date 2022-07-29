@@ -1,0 +1,9 @@
+Flask==2.1.2
+pandas==1.4.3
+boto3==1.24.26
+botocore==1.27.26
+six==1.16.0
+gunicorn==20.0.4
+Werkzeug==2.1.2
+googletrans==3.1.0a0
+python-docx==0.8.11
