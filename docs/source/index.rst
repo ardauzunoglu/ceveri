@@ -5,6 +5,8 @@
 
 Python kütüphanesi rehberi için :doc:`python kütüphanesi` sayfasını, websitesi rehberi için ise :doc:`website` sayfasını ziyaret ediniz.
 
+ÇeVeri Python kütüphanesinin PyPI sayfasına gitmek için `buraya <https://pypi.org/project/ceveri/>`_, ÇeVeri websitesine gitmek için ise `buraya <https://ceveri.herokuapp.com>`_ tıklayınız.
+
 .. note::
 
    ÇeVeri, Yayla takımı tarafından Teknofest 2022 Türkçe Doğal Dil İşleme Yarışması için geliştirilmiştir.
