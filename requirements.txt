@@ -7,3 +7,4 @@ gunicorn==20.0.4
 Werkzeug==2.1.2
 googletrans==3.1.0a0
 python-docx==0.8.11
+openpyxl==3.0.10
