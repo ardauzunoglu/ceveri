@@ -194,7 +194,7 @@ def translate(extension, file, source_language, detect_source_language):
     if extension.lower() == "pkl":
         translated_df, chars_translated = translate_pkl(file, source_language, detect_source_language)
         save_path = ".".join(file.split(".")[:-1]) + "_tr" + "." + extension 
-        translated_df.to_pkl(save_path)
+        translated_df.to_pickle(save_path)
         s3_client.upload_file(save_path, "ceveri", save_path)
 
     if extension.lower() == "txt":
