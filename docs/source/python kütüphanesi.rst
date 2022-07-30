@@ -14,11 +14,20 @@ Kurulum
 
    (.venv) $ pip install ceveri
 
+En çok sayıda uzantıyı, en optimize biçimde çevirebilmek için son sürümü kurabilirsiniz:
+
+.. code-block:: console
+
+   (.venv) $ pip install ceveri==1.0.3
 
 Desteklenen Uzantılar
 -------------------------
 
 Desteklenen uzantılar: .txt, .json, .xlsx, .csv, .xml, .pkl, ve .docx. 
+
+Sonraki güncellemelerde eklemeyi planladığımız ve güncel olarak üzerinde çalıştığımız uzantılar: .pdf, .tsv, .rtf, .rft, ve .me.
+
+Hangi uzantıyı önceliklendirmemiz konusunda görüşünüzü bildirmek isterseniz :ref:`https://docs.google.com/forms/d/e/1FAIpQLSdE6Bn6bazSASLLzCnlWuHokMeH2ZrQYbysyv83nTjgp_K5fQ/viewform<ÇeVeri Tavsiye ve Değerlendirme Formu>`'nu doldurabilirsiniz. 
 
 Kullanım
 ----------------
@@ -33,12 +42,16 @@ Desteklenen uzantılardan birine sahip bir dosyayı çevirmek için ``cevir()`` 
 
 >>> from ceveri import cevir
 >>> cevir("D:/files/ingilizce_dosya.json", "D:/files/cevrilmis_dosya.json", "en")
+Çeviri işlemi başladı.
 Dosya başarıyla çevrildi.
+İşlem süresi: 304.320070028305 saniye.
 Çevrilen dosyaya D:/files/cevrilmis_dosya.json adresinden erişebilirsiniz.
 
 Bir diğer örnek kullanım:
 
 >>> from ceveri import cevir
 >>> cevir("D:/files/rusca_dosya.txt", "D:/files/turkce_dosya.txt")
+Çeviri işlemi başladı.
 Dosya başarıyla çevrildi.
+İşlem süresi: 275.215596311885 saniye.
 Çevrilen dosyaya D:/files/turkce_dosya.txt adresinden erişebilirsiniz.
