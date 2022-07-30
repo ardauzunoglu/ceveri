@@ -27,7 +27,7 @@ Desteklenen uzantılar: .txt, .json, .xlsx, .csv, .xml, .pkl, ve .docx.
 
 Sonraki güncellemelerde eklemeyi planladığımız ve güncel olarak üzerinde çalıştığımız uzantılar: .pdf, .tsv, .rtf, .rft, ve .me.
 
-Hangi uzantıyı önceliklendirmemiz konusunda görüşünüzü bildirmek isterseniz :ref:`ÇeVeri Tavsiye ve Değerlendirme Formu<https://docs.google.com/forms/d/e/1FAIpQLSdE6Bn6bazSASLLzCnlWuHokMeH2ZrQYbysyv83nTjgp_K5fQ/viewform>`'nu doldurabilirsiniz. 
+Hangi uzantıyı önceliklendirmemiz konusunda görüşünüzü bildirmek isterseniz `ÇeVeri Tavsiye ve Değerlendirme Formu<https://docs.google.com/forms/d/e/1FAIpQLSdE6Bn6bazSASLLzCnlWuHokMeH2ZrQYbysyv83nTjgp_K5fQ/viewform>`_'nu doldurabilirsiniz. 
 
 Kullanım
 ----------------
