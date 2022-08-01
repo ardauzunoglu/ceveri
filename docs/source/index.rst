@@ -3,7 +3,7 @@
 
 **ÇeVeri** aracılığı ile Batı dillerinin ekseninde yoğunlaşan metin temelli veri setlerinin Türkçe’ye kazandırılmasını ve geliştiricilerin yaşadığı en büyük sorunlardan biri olan Türkçe veri eksikliğinin önüne geçilmesini amaçlıyoruz.
 
-Python kütüphanesi rehberi için :doc:`python kütüphanesi` sayfasını, websitesi rehberi için ise :doc:`website` sayfasını ziyaret ediniz.
+Python kütüphanesi rehberi için :doc:`python kütüphanesi` sayfasını, websitesi rehberi için ise :doc:`website` sayfasını ziyaret ediniz. Çeveri - Klasik Veri Setleri hakkında bilgi edinmek için :doc:`ceveri klasikler` sayfasına gidebilirsiniz.
 
 ÇeVeri Python kütüphanesinin PyPI sayfasına gitmek için `buraya <https://pypi.org/project/ceveri/>`_, ÇeVeri websitesine gitmek için ise `buraya <https://ceveri.herokuapp.com>`_ tıklayınız.
 
@@ -18,3 +18,4 @@ Python kütüphanesi rehberi için :doc:`python kütüphanesi` sayfasını, webs
 
    python kütüphanesi
    website
+   ceveri klasikler
