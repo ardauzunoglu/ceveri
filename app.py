@@ -171,31 +171,31 @@ def translate(extension, file, source_language, detect_source_language):
         save_path = ".".join(file.split(".")[:-1]) + "_tr" + "." + extension 
         with open(save_path, 'w', encoding="utf-8") as f:
             json.dump(translated_dict, f, indent=4, ensure_ascii=False)
-        s3_client.upload_file(save_path, "ceveri", save_path)
+        s3_client.upload_file(save_path, "ceveri2", save_path)
 
     if extension.lower() == "xlsx":
         translated_df, chars_translated = translate_excel(file, source_language, detect_source_language)
         save_path = ".".join(file.split(".")[:-1]) + "_tr" + "." + extension 
         translated_df.to_excel(save_path)
-        s3_client.upload_file(save_path, "ceveri", save_path)
+        s3_client.upload_file(save_path, "ceveri2", save_path)
 
     if extension.lower() == "csv":
         translated_df, chars_translated = translate_csv(file, source_language, detect_source_language)
         save_path = ".".join(file.split(".")[:-1]) + "_tr" + "." + extension 
         translated_df.to_csv(save_path)
-        s3_client.upload_file(save_path, "ceveri", save_path)
+        s3_client.upload_file(save_path, "ceveri2", save_path)
 
     if extension.lower() == "xml":
         translated_df, chars_translated = translate_xml(file, source_language, detect_source_language)
         save_path = ".".join(file.split(".")[:-1]) + "_tr" + "." + extension 
         translated_df.to_xml(save_path)
-        s3_client.upload_file(save_path, "ceveri", save_path)
+        s3_client.upload_file(save_path, "ceveri2", save_path)
 
     if extension.lower() == "pkl":
         translated_df, chars_translated = translate_pkl(file, source_language, detect_source_language)
         save_path = ".".join(file.split(".")[:-1]) + "_tr" + "." + extension 
-        translated_df.to_pickle(save_path)
-        s3_client.upload_file(save_path, "ceveri", save_path)
+        translated_df.to_pkl(save_path)
+        s3_client.upload_file(save_path, "ceveri2", save_path)
 
     if extension.lower() == "txt":
         translation_list, chars_translated = translate_txt(file, source_language, detect_source_language)
@@ -206,13 +206,13 @@ def translate(extension, file, source_language, detect_source_language):
                     f.writelines(line+"\n")
                 else:
                     f.writelines(line)
-        s3_client.upload_file(save_path, "ceveri", save_path)
+        s3_client.upload_file(save_path, "ceveri2", save_path)
 
     if extension.lower() == "docx":
         translated_doc, chars_translated = translate_docx(file, source_language, detect_source_language)
         save_path = ".".join(file.split(".")[:-1]) + "_tr" + "." + extension 
         translated_doc.save(save_path)
-        s3_client.upload_file(save_path, "ceveri", save_path)
+        s3_client.upload_file(save_path, "ceveri2", save_path)
 
     return save_path, chars_translated, source_languages
 
@@ -252,7 +252,7 @@ def index():
 
             filename = secure_filename(file.filename)
             
-            s3_client.upload_fileobj(file, "ceveri", filename)
+            s3_client.upload_fileobj(file, "ceveri2", filename)
 
             source_language_abb = request.form.get('source-language')
 
@@ -265,7 +265,7 @@ def index():
             extension = filename.rsplit(".", 1)[1]
             
             with open(filename, 'wb') as f:
-                s3_client.download_fileobj('ceveri', filename, f)
+                s3_client.download_fileobj('ceveri2', filename, f)
 
             be_translation = time.time()
             tr_file_path, chars_translated, source_languages = translate(extension, filename, source_language_abb, detect_source_language)
@@ -315,7 +315,7 @@ def rehber():
 
 @app.route("/download/<download_file_name>")
 def download(download_file_name):
-    file = s3_client.get_object(Bucket='ceveri', Key=download_file_name)
+    file = s3_client.get_object(Bucket='ceveri2', Key=download_file_name)
     return Response(
         file['Body'].read(),
         mimetype='text/plain',
