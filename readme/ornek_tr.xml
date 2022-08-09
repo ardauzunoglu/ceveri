@@ -1,0 +1,417 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <id>1</id>
+    <asks-for>neden</asks-for>
+    <most-plausible-alternative>1</most-plausible-alternative>
+    <p>Vücudum çimenlerin üzerine gölge düşürdü.</p>
+    <a1>Güneş yükseliyordu.</a1>
+    <a2>Çim kesildi.</a2>
+  </row>
+  <row>
+    <index>1</index>
+    <id>2</id>
+    <asks-for>neden</asks-for>
+    <most-plausible-alternative>1</most-plausible-alternative>
+    <p>Kadın, arkadaşının zor davranışını tolere etti.</p>
+    <a1>Kadın, arkadaşının zor zamanlar geçirdiğini biliyordu.</a1>
+    <a2>Kadın, arkadaşının onun nezaketinden yararlandığını hissetti.</a2>
+  </row>
+  <row>
+    <index>2</index>
+    <id>3</id>
+    <asks-for>neden</asks-for>
+    <most-plausible-alternative>2</most-plausible-alternative>
+    <p>Kadınlar kahve içmek için bir araya geldi.</p>
+    <a1>Kafe yeni bir yerde yeniden açıldı.</a1>
+    <a2>Birbirlerine yetişmek istediler.</a2>
+  </row>
+  <row>
+    <index>3</index>
+    <id>4</id>
+    <asks-for>neden</asks-for>
+    <most-plausible-alternative>1</most-plausible-alternative>
+    <p>Koşucu şort giydi.</p>
+    <a1>Tahmin, yüksek sıcaklıklar öngördü.</a1>
+    <a2>Sahil boyunca koşmayı planladı.</a2>
+  </row>
+  <row>
+    <index>4</index>
+    <id>5</id>
+    <asks-for>neden</asks-for>
+    <most-plausible-alternative>1</most-plausible-alternative>
+    <p>Partinin konukları kanepenin arkasına saklandı.</p>
+    <a1>Sürpriz bir partiydi.</a1>
+    <a2>Doğum günü partisiydi.</a2>
+  </row>
+  <row>
+    <index>5</index>
+    <id>6</id>
+    <asks-for>neden</asks-for>
+    <most-plausible-alternative>2</most-plausible-alternative>
+    <p>Politikacı seçimi kaybetti.</p>
+    <a1>Negatif kampanya reklamları yayınladı.</a1>
+    <a2>Kimse ona oy vermedi.</a2>
+  </row>
+  <row>
+    <index>6</index>
+    <id>7</id>
+    <asks-for>neden</asks-for>
+    <most-plausible-alternative>2</most-plausible-alternative>
+    <p>Leke gömlekten çıktı.</p>
+    <a1>gömleği yamaladım.</a1>
+    <a2>gömleği ağarttım.</a2>
+  </row>
+  <row>
+    <index>7</index>
+    <id>8</id>
+    <asks-for>neden</asks-for>
+    <most-plausible-alternative>2</most-plausible-alternative>
+    <p>Adamın yiyeceklerinde indirim var.</p>
+    <a1>Kasiyeri selamladı.</a1>
+    <a2>Kupon kullandı.</a2>
+  </row>
+  <row>
+    <index>8</index>
+    <id>9</id>
+    <asks-for>Efekt</asks-for>
+    <most-plausible-alternative>1</most-plausible-alternative>
+    <p>Doktor hastaya yanlış teşhis koymuş.</p>
+    <a1>Hasta, doktor aleyhine malpraktis davası açtı.</a1>
+    <a2>Hasta, gizli bilgilerini hekime ifşa etti.</a2>
+  </row>
+  <row>
+    <index>9</index>
+    <id>10</id>
+    <asks-for>neden</asks-for>
+    <most-plausible-alternative>2</most-plausible-alternative>
+    <p>Müşteri mağaza müdürüne şikayette bulundu.</p>
+    <a1>Satış görevlisi müşteriye gereğinden az ücret verdi.</a1>
+    <a2>Satış görevlisi müşteriye kaba davrandı.</a2>
+  </row>
+  <row>
+    <index>10</index>
+    <id>11</id>
+    <asks-for>neden</asks-for>
+    <most-plausible-alternative>1</most-plausible-alternative>
+    <p>Kadın musluğunu tamir etti.</p>
+    <a1>Musluk sızdırıyordu.</a1>
+    <a2>Musluk kapatıldı.</a2>
+  </row>
+  <row>
+    <index>11</index>
+    <id>12</id>
+    <asks-for>Efekt</asks-for>
+    <most-plausible-alternative>2</most-plausible-alternative>
+    <p>Yaşlı kadın felç geçirdi.</p>
+    <a1>Kadının kızı evini temizlemek için geldi.</a1>
+    <a2>Kadının kızı ona bakmak için taşındı.</a2>
+  </row>
+  <row>
+    <index>12</index>
+    <id>13</id>
+    <asks-for>Efekt</asks-for>
+    <most-plausible-alternative>1</most-plausible-alternative>
+    <p>Gölet kış için dondu.</p>
+    <a1>İnsanlar gölette paten kayıyordu.</a1>
+    <a2>İnsanlar gölete tekneler getirdiler.</a2>
+  </row>
+  <row>
+    <index>13</index>
+    <id>14</id>
+    <asks-for>Efekt</asks-for>
+    <most-plausible-alternative>1</most-plausible-alternative>
+    <p>Suçlu şartlı tahliyeyi ihlal etti.</p>
+    <a1>Hapse geri gönderildi.</a1>
+    <a2>Bir kiliseden para çaldı.</a2>
+  </row>
+  <row>
+    <index>14</index>
+    <id>15</id>
+    <asks-for>Efekt</asks-for>
+    <most-plausible-alternative>1</most-plausible-alternative>
+    <p>Uyuyan arkadaşımın üzerine su döktüm.</p>
+    <a1>Arkadaşım uyandı.</a1>
+    <a2>Arkadaşım horladı.</a2>
+  </row>
+  <row>
+    <index>15</index>
+    <id>16</id>
+    <asks-for>neden</asks-for>
+    <most-plausible-alternative>1</most-plausible-alternative>
+    <p>Kız nefesini tuttu.</p>
+    <a1>Arkadaşı sırtına bir buz küpü sıkıştırdı.</a1>
+    <a2>Arkadaşı sırtını sıvazladı.</a2>
+  </row>
+  <row>
+    <index>16</index>
+    <id>17</id>
+    <asks-for>neden</asks-for>
+    <most-plausible-alternative>2</most-plausible-alternative>
+    <p>Gömlek küçüldü.</p>
+    <a1>Üzerine çamaşır suyu döktüm.</a1>
+    <a2>Kurutucuya koydum.</a2>
+  </row>
+  <row>
+    <index>17</index>
+    <id>18</id>
+    <asks-for>Efekt</asks-for>
+    <most-plausible-alternative>2</most-plausible-alternative>
+    <p>Dışarısı karardı.</p>
+    <a1>Gökyüzünden kar taneleri düşmeye başladı.</a1>
+    <a2>Ay gökyüzünde görünür hale geldi.</a2>
+  </row>
+  <row>
+    <index>18</index>
+    <id>19</id>
+    <asks-for>neden</asks-for>
+    <most-plausible-alternative>1</most-plausible-alternative>
+    <p>Telefonu kapattım.</p>
+    <a1>Arayan kişi bana veda etti.</a1>
+    <a2>Arayan kendini bana tanıttı.</a2>
+  </row>
+  <row>
+    <index>19</index>
+    <id>20</id>
+    <asks-for>Efekt</asks-for>
+    <most-plausible-alternative>2</most-plausible-alternative>
+    <p>Kadının yüzüğü duşta kayıp düştü.</p>
+    <a1>Kadın yüzüğü parlattı.</a1>
+    <a2>Yüzük boşa gitti.</a2>
+  </row>
+  <row>
+    <index>20</index>
+    <id>21</id>
+    <asks-for>neden</asks-for>
+    <most-plausible-alternative>1</most-plausible-alternative>
+    <p>Kız bir kupa aldı.</p>
+    <a1>Bir heceleme yarışması kazandı.</a1>
+    <a2>Yeni bir arkadaş edindi.</a2>
+  </row>
+  <row>
+    <index>21</index>
+    <id>22</id>
+    <asks-for>Efekt</asks-for>
+    <most-plausible-alternative>1</most-plausible-alternative>
+    <p>Kadının randevusu bir beyefendi gibi görünmek istedi.</p>
+    <a1>Onun için kapıyı açtı.</a1>
+    <a2>Ona suşi sevip sevmediğini sordu.</a2>
+  </row>
+  <row>
+    <index>22</index>
+    <id>23</id>
+    <asks-for>Efekt</asks-for>
+    <most-plausible-alternative>1</most-plausible-alternative>
+    <p>Tarım arazilerinin sulamaya ihtiyacı vardı.</p>
+    <a1>Bir kanal inşa edildi.</a1>
+    <a2>Bir sel meydana geldi.</a2>
+  </row>
+  <row>
+    <index>23</index>
+    <id>24</id>
+    <asks-for>neden</asks-for>
+    <most-plausible-alternative>1</most-plausible-alternative>
+    <p>Ev sahibi partiyi iptal etti.</p>
+    <a1>Grip olduğundan emindi.</a1>
+    <a2>Grip olacağından endişeleniyordu.</a2>
+  </row>
+  <row>
+    <index>24</index>
+    <id>25</id>
+    <asks-for>neden</asks-for>
+    <most-plausible-alternative>1</most-plausible-alternative>
+    <p>Kadın, adama telefon numarasını verdi.</p>
+    <a1>Ona çekici geldi.</a1>
+    <a2>Onun tarafından geri çevrildi.</a2>
+  </row>
+  <row>
+    <index>25</index>
+    <id>26</id>
+    <asks-for>neden</asks-for>
+    <most-plausible-alternative>1</most-plausible-alternative>
+    <p>Paraşütçü güvenli bir şekilde yere süzüldü.</p>
+    <a1>Paraşütünü açtı.</a1>
+    <a2>Uçaktan atladı.</a2>
+  </row>
+  <row>
+    <index>26</index>
+    <id>27</id>
+    <asks-for>Efekt</asks-for>
+    <most-plausible-alternative>1</most-plausible-alternative>
+    <p>Yürümeye başlayan çocuk huysuzlaştı.</p>
+    <a1>Annesi onu uyuması için yatırdı.</a1>
+    <a2>Annesi saçlarını at kuyruğu yaptı.</a2>
+  </row>
+  <row>
+    <index>27</index>
+    <id>28</id>
+    <asks-for>neden</asks-for>
+    <most-plausible-alternative>2</most-plausible-alternative>
+    <p>Çocuk hastalığa karşı bağışıklık kazandı.</p>
+    <a1>Hastalığa maruz kalmaktan kaçındı.</a1>
+    <a2>Hastalık için aşı aldı.</a2>
+  </row>
+  <row>
+    <index>28</index>
+    <id>29</id>
+    <asks-for>Efekt</asks-for>
+    <most-plausible-alternative>1</most-plausible-alternative>
+    <p>Üzüm suyu fermente edildi.</p>
+    <a1>Meyve suyu şaraba döndü.</a1>
+    <a2>Meyve suyu buharlaştı.</a2>
+  </row>
+  <row>
+    <index>29</index>
+    <id>30</id>
+    <asks-for>neden</asks-for>
+    <most-plausible-alternative>2</most-plausible-alternative>
+    <p>Arkadaşların tartışması durmadan uzadı.</p>
+    <a1>Arkadaşlar göz göze geldiler.</a1>
+    <a2>Arkadaşlar saçlarını dağıtıyorlardı.</a2>
+  </row>
+  <row>
+    <index>30</index>
+    <id>31</id>
+    <asks-for>neden</asks-for>
+    <most-plausible-alternative>2</most-plausible-alternative>
+    <p>Kadın kendi kendine mırıldandı.</p>
+    <a1>Gergindi.</a1>
+    <a2>İyi bir ruh halindeydi.</a2>
+  </row>
+  <row>
+    <index>31</index>
+    <id>32</id>
+    <asks-for>Efekt</asks-for>
+    <most-plausible-alternative>1</most-plausible-alternative>
+    <p>Adam yeni saç kesiminden nefret ediyordu.</p>
+    <a1>Şapka taktı.</a1>
+    <a2>Sakal yetiştirdi.</a2>
+  </row>
+  <row>
+    <index>32</index>
+    <id>33</id>
+    <asks-for>Efekt</asks-for>
+    <most-plausible-alternative>2</most-plausible-alternative>
+    <p>Polis silahlarını kaçağa doğrulttu.</p>
+    <a1>Kaçak yere düştü.</a1>
+    <a2>Kaçak silahını düşürdü.</a2>
+  </row>
+  <row>
+    <index>33</index>
+    <id>34</id>
+    <asks-for>Efekt</asks-for>
+    <most-plausible-alternative>2</most-plausible-alternative>
+    <p>Hasta dehidrate edildi.</p>
+    <a1>Hemşire reflekslerini test etti.</a1>
+    <a2>Hemşire ona bir IV verdi.</a2>
+  </row>
+  <row>
+    <index>34</index>
+    <id>35</id>
+    <asks-for>Efekt</asks-for>
+    <most-plausible-alternative>1</most-plausible-alternative>
+    <p>Kız eksik yapboz parçasını buldu.</p>
+    <a1>Bulmacayı tamamladı.</a1>
+    <a2>Yapbozu parçalara ayırdı.</a2>
+  </row>
+  <row>
+    <index>35</index>
+    <id>36</id>
+    <asks-for>neden</asks-for>
+    <most-plausible-alternative>1</most-plausible-alternative>
+    <p>Adam hızla yataktan fırladı.</p>
+    <a1>Çalar saati kapatmak istedi.</a1>
+    <a2>İşe gitmeden önce pantolonunu ütülemek istedi.</a2>
+  </row>
+  <row>
+    <index>36</index>
+    <id>37</id>
+    <asks-for>Efekt</asks-for>
+    <most-plausible-alternative>2</most-plausible-alternative>
+    <p>Kağıtlar düzensizdi.</p>
+    <a1>fotokopilerini çektim.</a1>
+    <a2>Onları alfabetik sıraya koydum.</a2>
+  </row>
+  <row>
+    <index>37</index>
+    <id>38</id>
+    <asks-for>Efekt</asks-for>
+    <most-plausible-alternative>1</most-plausible-alternative>
+    <p>Kadın piyangoyu kazandı.</p>
+    <a1>Bir yat satın aldı.</a1>
+    <a2>Bir kiliseye katıldı.</a2>
+  </row>
+  <row>
+    <index>38</index>
+    <id>39</id>
+    <asks-for>Efekt</asks-for>
+    <most-plausible-alternative>2</most-plausible-alternative>
+    <p>Terzi, iplik geçirilmiş iğneyi kumaşın içine itti.</p>
+    <a1>İplik iğnenin etrafına sarılır.</a1>
+    <a2>İplik kumaşın içinden geçti.</a2>
+  </row>
+  <row>
+    <index>39</index>
+    <id>40</id>
+    <asks-for>neden</asks-for>
+    <most-plausible-alternative>1</most-plausible-alternative>
+    <p>Kadın bir avukat tuttu.</p>
+    <a1>İşverenine dava açmaya karar verdi.</a1>
+    <a2>Göreve aday olmaya karar verdi.</a2>
+  </row>
+  <row>
+    <index>40</index>
+    <id>41</id>
+    <asks-for>Efekt</asks-for>
+    <most-plausible-alternative>1</most-plausible-alternative>
+    <p>Kiracı dairesinin anahtarlarını yanlış yere koymuş.</p>
+    <a1>Ev sahibi kapıyı açtı.</a1>
+    <a2>Ev sahibi kapıyı tamir etti.</a2>
+  </row>
+  <row>
+    <index>41</index>
+    <id>42</id>
+    <asks-for>Efekt</asks-for>
+    <most-plausible-alternative>2</most-plausible-alternative>
+    <p>Radyoda en sevdiğim şarkı çıktı.</p>
+    <a1>kulaklarımı kapattım.</a1>
+    <a2>Şarkıya eşlik ettim.</a2>
+  </row>
+  <row>
+    <index>42</index>
+    <id>43</id>
+    <asks-for>neden</asks-for>
+    <most-plausible-alternative>1</most-plausible-alternative>
+    <p>Yönetici, başvuranı işe almamaya karar verdi.</p>
+    <a1>Başvuran, geçmiş kontrolünde başarısız olmuştur.</a1>
+    <a2>Başvuranın iş için deneyimi vardı.</a2>
+  </row>
+  <row>
+    <index>43</index>
+    <id>44</id>
+    <asks-for>Efekt</asks-for>
+    <most-plausible-alternative>1</most-plausible-alternative>
+    <p>Adamın gözü enfeksiyon kapmış.</p>
+    <a1>Kör oldu.</a1>
+    <a2>Gözlük taktı.</a2>
+  </row>
+  <row>
+    <index>44</index>
+    <id>45</id>
+    <asks-for>neden</asks-for>
+    <most-plausible-alternative>2</most-plausible-alternative>
+    <p>Kuş uçamadı.</p>
+    <a1>Kış için göç etti.</a1>
+    <a2>Kanadını yaraladı.</a2>
+  </row>
+  <row>
+    <index>45</index>
+    <id>46</id>
+    <asks-for>neden</asks-for>
+    <most-plausible-alternative>2</most-plausible-alternative>
+    <p>Kız bir dilek tuttu.</p>
+    <a1>Kara bir kedi gördü.</a1>
+    <a2>Kayan bir yıldız gördü.</a2>
+  </row>
+</data>
