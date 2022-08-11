@@ -126,8 +126,6 @@ Desteklenen uzantılar listemize yeni uzantılar ekleyerek ÇeVeri'nin destek ka
 **3 - Üretilen Verinin Depolanması**<br>
 ÇeVeri, çoğunlukla Batı dilleri ekseninde yoğunlaşan metin temelli verilerin Türkçe'ye kazandırılmasını amaçlamaktadır. Bu amaç doğrultusunda ÇeVeri kullanımı ile elde edilen verilerin, kullanıcı onayı ile birlikte, herkese açık bir şekilde paylaşılmasını sağlayan yeni bir servis modeli entegre etmeyi hedefliyoruz.
 
-
-
 # Geliştirici Ekip
 Geliştirici Ekip: **Yayla** <br>
 Takım Kaptanı: **Arda Uzunoğlu** → [Github](https://github.com/ardauzunoglu), [Twitter](https://twitter.com/ardauzunogluuu) <br>
