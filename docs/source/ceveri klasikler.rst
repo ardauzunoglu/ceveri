@@ -5,7 +5,7 @@ Giriş
 ------------
 Yayla takımı olarak ÇeVeri'yi kullanarak oluşturduğumuz, doğal dil işleme
 çalışmalarında sıklıkla kullanılmaları sonucu birer standart haline gelmiş, toplamda
-22 adet veri setini Türkçe'ye kazandırmanın ve geliştiricilerle paylaşmanın
+21 adet veri setini Türkçe'ye kazandırmanın ve geliştiricilerle paylaşmanın
 gururunu yaşıyoruz.
 
 Türkçe Doğal Dil İşlemeye Sunulan Katkı
@@ -23,7 +23,7 @@ setleri arasından seçilmiştir.
 Gelecek Planlarımız ve Hedeflerimiz
 -------------------------------------
 ÇeVeri - Klasik Veri Setleri girişimimizin ilk basamağında Türkçe doğal dil işlemeye
-22 adet veri seti kazandırarak güzel bir başlangıç yapmış olduğumuzu düşünsek de
+21 adet veri seti kazandırarak güzel bir başlangıç yapmış olduğumuzu düşünsek de
 bu sayının yeterli olmadığı kanaatindeyiz. Gelecek planlarımız arasında varlık
 ilişkilendirme (entity linking), kod üretimi (code generation), bilgi grafikleri
 (knowledge graphs) gibi görevler üzerine odaklanan veri setlerini Türkçeye
@@ -31,7 +31,6 @@ kazandırarak bu sayıyı arttırmak yer alıyor.
 
 .. _squad:
 .. _ımdb movie reviews:
-.. _conll-2003:
 .. _cola:
 .. _cnn stories:
 .. _dailydialog:
@@ -87,24 +86,6 @@ IMDB Movie Reviews
 **Boyut:** +85MB
 
 **Geliştirici Kurum:** Stanford Üniversitesi
-
-CoNLL-2003
----------------------
-**Kullanıldığı Görevler:** Token Classification, Named Entity Recognition, Chunking
-
-**Yayınlandığı Makale:** Introduction to the CoNLL-2003 Shared Task: Language-Independent Named Entity Recognition
-
-**Yayınlandığı Yıl:** 2003
-
-**Yayınlandığı Konferans:** ACL
-
-**Aldığı Atıf Sayısı:** 3884
-
-**Nicelik:** +1350 makale
-
-**Boyut:** +5MB
-
-**Geliştirici Kurum:** Antwerp Üniversitesi
 
 CoLA
 ---------------------
