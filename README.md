@@ -14,6 +14,10 @@
 [Geliştirmeye Yönelik Hedefler](#geliştirmeye-yönelik-hedefler) <br>
 [Geliştirici Ekip](#geliştirici-ekip) <br>
 
+# Örnek
+
+![ornek](https://raw.githubusercontent.com/ardauzunoglu/ceveri/main/readme/ceveri-demo.gif)
+
 # ÇeVeri Kütüphanesi
 ### Kurulum
 ÇeVeri Python kütüphanesini kullanmak için pip kullanabilirsiniz:
