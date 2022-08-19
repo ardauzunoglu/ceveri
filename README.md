@@ -104,6 +104,41 @@ Yayla takımı olarak ÇeVeri’yi kullanarak oluşturduğumuz, doğal dil işle
 
 [ÇeVeri Klasik Veri Setleri](https://ceveri.herokuapp.com/klasikler)
 
+# Makine Çevirisi Kalite Kontrolü ve TDD ile İş Birliği
+ÇeVeri klasik veri setleri oluşturulduktan sonra veri bankalarına katmaları amacıyla TDD ile paylaşılmıştır. Bu kapsamda TDD ile ortak olarak makine çevirisi kalite kontrolü gerçekleştirilmiş ve çeviri kalitesini ölçmek amacıyla oluşturulan random sample'ların insan çevirileri ile makine çevirileri üzerinden BLEU, METEOR, ve ROGUE metrikleri hesaplanmıştır. Kalite kontrolü 19 Ağustos itibari ile devam etmektedir. Makine çevirisi kalitesine örnek olması amacıyla şu ana kadar kalite kontrolü tamamlanan veri setlerinden ikisi aşağıda yer almaktadır:
+
+<table>
+  <tr>
+    <td align="center" colspan="3">Boolean Questions-tr</td>
+  </tr>
+  <tr>
+    <td align="center">BLEU</td>
+    <td align="center">METEOR</td>
+    <td align="center">ROGUE</td>
+  </tr>
+  <tr>
+    <td align="center">0.708</td>
+    <td align="center">0.722</td>
+    <td align="center">0.831</td>
+  </tr>
+ </table>
+ 
+ <table>
+  <tr>
+    <td align="center" colspan="3">ActivityNet Captions-tr</td>
+  </tr>
+  <tr>
+    <td align="center">BLEU</td>
+    <td align="center">METEOR</td>
+    <td align="center">ROGUE</td>
+  </tr>
+  <tr>
+    <td align="center">0.787</td>
+    <td align="center">0.869</td>
+    <td align="center">0.913</td>
+  </tr>
+ </table>
+
 # Demo
 | Yabancı Dildeki Dosya | ÇeVeri ile Türkçeleştirilen Dosya | Dosya Uzantısı | Çevirilen Karakter Sayısı | İşlem Süresi  | Video | 
 | ------------- | ------------- | ------------  | ------------- | ------------- | ------------- | 
