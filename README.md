@@ -10,6 +10,7 @@
 [ÇeVeri Websitesi](#çeveri-websitesi) <br>
 [ÇeVeri Dokümantasyonu](#çeveri-dokümantasyonu) <br>
 [ÇeVeri Klasik Veri Setleri](#çeveri-klasik-veri-setleri) <br>
+[Makine Çevirisi Kalite Kontrolü ve TDD ile Iş Birliği](#makine-çevirisi-kalite-kontrolü-ve-tdd-ile-iş-birliği) <br>
 [Demo](#demo) <br>
 [Geliştirmeye Yönelik Hedefler](#geliştirmeye-yönelik-hedefler) <br>
 [Geliştirici Ekip](#geliştirici-ekip) <br>
@@ -104,7 +105,7 @@ Yayla takımı olarak ÇeVeri’yi kullanarak oluşturduğumuz, doğal dil işle
 
 [ÇeVeri Klasik Veri Setleri](https://ceveri.herokuapp.com/klasikler)
 
-# Makine Çevirisi Kalite Kontrolü ve TDD ile İş Birliği
+# Makine Çevirisi Kalite Kontrolü ve TDD ile Iş Birliği
 ÇeVeri klasik veri setleri oluşturulduktan sonra veri bankalarına katmaları amacıyla TDD ile paylaşılmıştır. Bu kapsamda TDD ile ortak olarak makine çevirisi kalite kontrolü gerçekleştirilmiş ve çeviri kalitesini ölçmek amacıyla oluşturulan random sample'ların insan çevirileri ile makine çevirileri üzerinden BLEU, METEOR, ve ROGUE metrikleri hesaplanmıştır. Kalite kontrolü 19 Ağustos itibari ile devam etmektedir. Makine çevirisi kalitesine örnek olması amacıyla şu ana kadar kalite kontrolü tamamlanan veri setlerinden ikisi aşağıda yer almaktadır:
 
 <table>
